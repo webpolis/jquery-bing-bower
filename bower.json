@@ -1,0 +1,9 @@
+{
+  "name": "jquery-bing-bower",
+  "version": "1.0",
+  "main": "./jquery.ui.bmap.js",
+  "dependencies": {
+    "jquery-ui": "~1.9.2"
+  }
+}
+
